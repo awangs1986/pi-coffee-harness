@@ -1,3 +1,5 @@
+> **Historical source:** maintenance and new releases moved to [harness](https://github.com/awangs1986/pi-coffee/tree/main/packages/harness). See [MIGRATED.md](MIGRATED.md). The documentation below describes the retained standalone release.
+
 # pi-coffee-harness
 
 Version **0.1.2** · [Changelog](CHANGELOG.md) · [Upgrade and rollback](docs/releases.md).
